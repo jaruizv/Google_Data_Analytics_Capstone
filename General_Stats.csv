@@ -1,0 +1,7 @@
+avg_ride_length_minutes,max_ride_length_minutes,mode_day_of_week,total_riders
+16.610119542521467,1509.3666666666666,"{
+  ""mode_day_of_week"": [{
+    ""value"": ""7"",
+    ""count"": ""666019""
+  }]
+}",4197558
