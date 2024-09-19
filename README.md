@@ -194,7 +194,7 @@ ORDER BY ride_length;
 
 The resulting table was saved as ‘cleaned_data’ inside the ’Cyclistic’ dataset. Once done, the next step is to analyze the dataset and draw insights from it. 
 
-## Data Analysis Process
+## Data Analysis Summary
 
 For the analysis process, first, the mean and maximum values were calculated for the ride length using an SQL query.  As the ride length was in seconds, it was converted to minutes by dividing it by 60. Then, the mode of the day of the week where most riders use Cyclistic bike-share was calculated, as well as the total amount of riders. The following code was run in BigQuery:
 
@@ -280,7 +280,9 @@ FROM
 
 As a result, the next [pivot table](https://github.com/jaruizv/Google_Data_Analytics_Capstone/blob/main/Stats_by_month_year.csv) was obtained.
 
-## Analysis Summary
+## Visualizations
+
+
 
 
 
