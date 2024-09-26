@@ -286,7 +286,15 @@ Based on the analysis made in Big Query, the next step was to transform the insi
 
 ## Conclusions and recommendations
 
+By adhering to the six phases of data analysis: Ask, Prepare, Process, Analyze, Share and Act, significant insights were discovered in the data under review. Notable distinctions were observed in the usage patterns of bikes by members and casual riders in their daily activities. As revealed in the sharing phase, casual riders tend to have fewer but longer rides, especially on weekends, suggesting they primarily use bikes for leisure purposes. In contrast, members appear to use bikes for work and other productive activities predominantly during weekdays, with shorter rides. These findings could aid the team in marketing the bikes to casual riders by highlighting the benefits of programs such as ride-to-work schemes.
 
+Therefore, three key recommendations can be made:
+
+1. **Targeted Advertising for Casual Riders**: Create advertisements aimed at casual riders, promoting the benefits of using bikes for weekday activities such as commuting to work, running errands, or shopping.
+
+2. **Highlight Leisure vs. Productive Use**: Leverage the insight that casual riders primarily use bikes for leisure on weekends, while members use them for work-related activities during the week. Tailor messaging to show casual riders the potential for weekday use.
+
+3. **Collect Additional User Data**: To validate the current findings, gather direct feedback from users on whether they use bikes for work or leisure. This additional data would provide more precise insights and confirm the trends identified.
 
 
 
