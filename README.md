@@ -282,10 +282,9 @@ As a result, the next [pivot table](https://github.com/jaruizv/Google_Data_Analy
 
 ## Visualizations
 
+Based on the analysis made in Big Query, the next step was to transform the insights into visualizations. For this, Tableau Public's stories are a great tool to share the findings. The visualizations can be seen in the following [link](https://public.tableau.com/shared/7XP7N73ZQ?:display_count=n&:origin=viz_share_link), or in this [pdf](https://github.com/jaruizv/Google_Data_Analytics_Capstone/blob/main/Visualizations.pdf).
 
-
-
-
+## Conclusions and recommendations
 
 
 
